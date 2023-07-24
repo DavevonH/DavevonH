@@ -10,3 +10,6 @@ I love meeting new people and learning new stuff just by trying it out.
 Don´t hesitate to write me a message!
 
 **Here are some of my Hobbys:**
+- music & producing
+- sport
+- travel
