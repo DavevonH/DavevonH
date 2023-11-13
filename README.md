@@ -11,12 +11,16 @@ I love meeting new people and learning new stuff just by trying it out.
 
 After the deep dive into the world of coding by doing the Web Development Bootcamp at "neue Fische" one thing is for sure: 
 
-##You will never stop learning!
+You will never stop learning! 💻
 
-##...and thats exactly what i want to to! 
+...and thats exactly what i want to to! 🚀
 
 Don´t hesitate to write me a message!
 
 ## Check out our Capstone Project
-![Star Wars Bazaar]()
+
+--->![Star Wars Bazaar App](https://booking-app-gamma-three.vercel.app/)<---
+
+![Star Wars Bazaar Project](https://github.com/DavevonH/DavevonH/assets/140090722/fa6ceedb-cf4e-4696-a865-b95ff1c32536)
+
 
