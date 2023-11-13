@@ -1,15 +1,22 @@
-# Hi there 👋
-## Currently doing the Web-Developer Bootcamp at "neue Fische" 🐠
+# Hi there, I'm David 👋
+________________________
+## What I do?
 
-**🙍🏼‍♂️ That´s me:🙍🏼‍♂️**
-
-![Star Wars Bazaar]()
+💫 Creating     🌍 Socialising     💻🚀 Keep learning     🎸 Music       
+________________________
+## About Me
 
 My Name is David, i am 28 years old and currently living in Hamburg.
 I love meeting new people and learning new stuff just by trying it out.
+
+After the deep dive into the world of coding by doing the Web Development Bootcamp at "neue Fische" one thing is for sure: 
+
+##You will never stop learning!
+
+##...and thats exactly what i want to to! 
+
 Don´t hesitate to write me a message!
 
-**Here are some of my Hobbys:**
-- music & production 🎸
-- sport 🏄🏼
-- travel 🚀 🌎
+## Check out our Capstone Project
+![Star Wars Bazaar]()
+
