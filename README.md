@@ -19,7 +19,7 @@ Don´t hesitate to write me a message!
 
 ## Check out our Capstone Project
 
---->![Star Wars Bazaar App](https://booking-app-gamma-three.vercel.app/)<---
+---> ![Star Wars Bazaar](https://booking-app-gamma-three.vercel.app/) <---
 
 ![Star Wars Bazaar Project](https://github.com/DavevonH/DavevonH/assets/140090722/fa6ceedb-cf4e-4696-a865-b95ff1c32536)
 
